@@ -1,1 +1,39 @@
-dfhbgjdtvb
+GHG- greenhouse gases, examples - CO2, N20,CH4, water vapour
+they trap atmospheric heat that is supposed to be reflected back from earth, increasing the heat holding by earth, increasing globaal temperatures.
+
+Climate is the average daily weather for an extended period of time 
+at a certain location. 
+
+weather represents the situation at a particular time at a particular place, weather can be described by temperature, rainfall in mm, humidity
+
+Climate change is a long-term changes in Earth’s climate patterns, broader than daily or seasonal weather changes. It includes large-scale effects such as melting ice caps, rising sea levels, shifting rainfall patterns, and increasing global temperatures.
+
+Unlike weather, which is local and temporary, climate change spans decades and results from both natural processes and human activities.
+
+IPCC -  Intergovernmental Panel on Climate Change
+
+climate change can be caused by 
+1) natural causes - ex:-volcanic eruptions, ocean current shifting 
+2) man-made causes - ex:-bruning fossil fuels which raise GHG concentrations, deforestation, fertilizers which pollute soil
+
+before industrial revolution began in 1750, GHG emmisions were in control. 
+
+GHG cycle - humans activities or natural activities do GHG emmisions, plants absord the co2 and other GHG in air through photosynthesis and they inturn decay underground into coaal, or other fossil fuels again. everything in cycle. 
+
+human activities since the starting of industrial revolution increase GHG emmisions and the plants or nature cant absorb back the increased GHG gases, so they remain in the atmosphere and trap heat
+
+after industrial revolution, most of the GHG concentration comes from man made activities
+
+question: there were still small manageable amount of GHG emmisions before industrial revolution era by natural causes? name some such natural activities
+answer: volcanic activity, oceans storing and releasing based on water current changes, forests, famring, solar variations
+
+question: what is co2eq?
+answer: it is a standard term used to represent GHG concentrations in the atmosphere of different gases relative to CO2 gas's impact.
+
+CONSEQUENCES OF TRAPPED HEAT BY GHGs
+
+disturbing natural cycles of everything. snow formation and melting cycle is affected. more melting of ice, glaciers, but less reformation of snow because of delayed winters
+
+increased sealevel and floods. and heatwaves and droughts...
+
+refer to slides for more examples
