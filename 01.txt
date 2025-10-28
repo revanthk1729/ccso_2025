@@ -1,14 +1,26 @@
 GHG- greenhouse gases, examples - CO2, N20,CH4, water vapour
-they trap atmospheric heat that is supposed to be reflected back from earth, increasing the heat holding by earth, increasing globaal temperatures.
+
+Earth recieves sunlight and heat every instant, some of that heat energy is reflected back at the stratosphere level. the remaining heat energy enters the earth atmosphere. some of that is reflected back by oceans and Greenhouse Gases trap remaining heat that is supposed to be reflected back from earth, increasing the heat holding by earth, increasing global temperatures.
 
 Climate is the average daily weather for an extended period of time 
 at a certain location. 
 
-weather represents the situation at a particular time at a particular place, weather can be described by temperature, rainfall in mm, humidity
+weather represents the situation at a particular time at a particular place, weather can be described by temperature, rainfall in mm, humidity, etc..
 
 Climate change is a long-term changes in Earth’s climate patterns, broader than daily or seasonal weather changes. It includes large-scale effects such as melting ice caps, rising sea levels, shifting rainfall patterns, and increasing global temperatures.
 
 Unlike weather, which is local and temporary, climate change spans decades and results from both natural processes and human activities.
+
+Climate description include average weather, and any climate events that take place at a given place. when describing climate we use words like "generally...", "on average...", "most of the year...", "temperatures range between...", "rainfall is usually...". we use these to give a average idea of the climate, and additionally include any unusual events that happen such as unexpected rainfalls, droghts...
+
+for example we can describe climate at thar desert as 
+- Summers are extremely hot, with daytime temperatures often above 45°C, while nights can be cooler due to rapid heat loss.
+
+- Winters are mild and dry.
+
+- Rainfall is very low — averaging 100–500 mm per year, mostly during the monsoon season (July–September).
+
+- Occasionally, like in 2010, there may be unusual rainfall, but that’s an exception, not the norm
 
 IPCC -  Intergovernmental Panel on Climate Change
 
@@ -39,6 +51,8 @@ increased sealevel and floods. and heatwaves and droughts...
 refer to slides for more examples
 
 kyoto protocol participation of malaysia- legally binding participation to reduce GHG emissions
+
+copenhagen accord - nonbinding political agreement, goal to reduce 2deg celcius increase in temp, commitments from developed to developing countries for money for mitigation
 
 SREP- small renewable energy power
 
